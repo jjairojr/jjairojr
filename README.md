@@ -1,53 +1,88 @@
-# Hi there 👋 I'm Jairo!!
 
-I'm a Fullstack Developer living in Goiânia ( Brazil ), experienced in building web applications and mobile applications using JavaScript, Typescript, React and React Native. I am graduating in my Bachelor of Information Systems at UFG ( Universidade Federal de Goiás )
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Skill set:
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Jairo</h1></summary>
+  </ul>
+</div>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/nodejs-original.svg" height="auto" width="40">
+<!--- snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/mongodb-original.svg" height="auto" width="40">
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/css3-original.svg" height="auto" width="40">
+<!--Intro start-->
+- 🔭 I’m currently working on **Postgres, React, React Native, Nodejs, MongoDB**
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/sass-original.svg" height="auto" width="40">
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/react-original.svg" height="auto" width="40">
+- 📝 I regularly write articles on [Hashnode](https://dev.to/jjairojr)
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/next-js-original.svg" height="auto" width="40">
+- 💬 Ask me about **postgres, react, react-native, nodejs, mongoDB**
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/html5-original.svg" height="auto" width="40">
+- 📫 Feel free to reach me out **jjairojr01@gmail.com**
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/visualstudio-plain.svg" height="auto" width="40">
+<!--Intro end-->
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/jjairojr/jjairojr/main/assets/git-original.svg" height="auto" width="40">
+
+<!--- stats & Trophy (start) -->
+
+<!--- trophy (start) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,dynamodb,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,postgres,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
 </p>
 
-### :technologist: Favorite Techs:
 
-- React (Next.js), React Native and Node.
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-### :nerd_face: I'm currently learning:
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/jjairo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  
+</p>
 
-- Animated API on React Native
-- Motion Framework
 
-### :thinking: I want to learn:
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- Get more deep in GraphQL
-- Prisma
+----------------------------------------------------------------------
 
-### Hobbies I enjoy:
-
-- Playing video games :video_game:
-- Watch competitive e-sport games :video_game:
