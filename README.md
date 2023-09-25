@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 📝 I regularly write articles on [Hashnode](https://dev.to/jjairojr)
+- 📝 I write articles on [Dev.TO](https://dev.to/jjairojr)
 
 - 💬 Ask me about **postgres, react, react-native, nodejs, mongoDB**
 
